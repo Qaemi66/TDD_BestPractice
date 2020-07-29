@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="BankAccount.cs" />
+    <Compile Remove="Common.cs" />
+    <Compile Remove="IPerson.cs" />
+    <Compile Remove="MyList.cs" />
+    <Compile Remove="Person.cs" />
+    <Compile Remove="Rooter.cs" />
+  </ItemGroup>
+
+</Project>
