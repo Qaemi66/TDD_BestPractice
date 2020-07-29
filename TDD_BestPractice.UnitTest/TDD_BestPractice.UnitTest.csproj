@@ -23,7 +23,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TDD_BestPractice\TDD_BestPractice.csproj" />
-    <ProjectReference Include="..\TDD_Sample\TDD_BestPractice.csproj" />
   </ItemGroup>
 
 </Project>
